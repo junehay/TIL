@@ -1,3 +1,10 @@
+## Lambda
+
+### 이슈
+
+1. 람다가 실행 안되어 cloudwatch를 살펴보면 `memory` 문제 혹은 `timeout`이 나는 경우가 있다.
+    - 구성에서 `메모리`와 `제한 시간`을 설정하여 해결 가능
+
 ## Lambda@edge
 
 ### IAM
