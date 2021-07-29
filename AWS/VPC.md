@@ -1,3 +1,4 @@
+![Aws Vpc-08](https://user-images.githubusercontent.com/53490344/127512835-1f20c787-3932-4277-9ca2-cbb4461de57d.jpg)
 ### Region(리전) 및 Availability Zone(가용 영역)
 
 AWS가 전 세계에서 데이터 센터를 클러스터링 하는 물리적 위치를 `Region`이라고 하며, 논리적 데이터 센터의 각 그룹을 `Availability Zone`(이하 `AZ`)이라고 한다.
